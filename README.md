@@ -1,8 +1,6 @@
 # 👋 Hey there! I'm Munnuru Bhavani Prasad
 
-🎓 B.Tech Student | CSE (IoT, Cyber Security & Blockchain Technology)
-
-### 🚀 Student | 📚 Author | 💻 Aspiring Developer | 📈 Trader & Investor | 🥋 Martial Arts Enthusiast
+### 🎓 B.Tech Student | CSE (IoT, Cyber Security & Blockchain Technology) | 📚 Author | 💻 Aspiring Developer | 📈 Trader & Investor | 🥋 Martial Arts Enthusiast
 
 Welcome to my GitHub profile! I'm a curious, ambitious, and multidisciplinary learner passionate about technology, financial markets, entrepreneurship, fitness, and public service. I believe in continuous learning, self-discipline, and turning knowledge into meaningful action.
 
