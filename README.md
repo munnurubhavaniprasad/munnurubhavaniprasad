@@ -1,12 +1,14 @@
 # 👋 Hey there! I'm Munnuru Bhavani Prasad
 
+🎓 B.Tech Student | CSE (IoT, Cyber Security & Blockchain Technology)
+
 ### 🚀 Student | 📚 Author | 💻 Aspiring Developer | 📈 Trader & Investor | 🥋 Martial Arts Enthusiast
 
 Welcome to my GitHub profile! I'm a curious, ambitious, and multidisciplinary learner passionate about technology, financial markets, entrepreneurship, fitness, and public service. I believe in continuous learning, self-discipline, and turning knowledge into meaningful action.
 
 ## 🙋‍♂️ About Me
 
-- 🎓 Engineering student with an interest in technology and innovation.
+- 🎓 Pursuing B.Tech in Computer Science and Engineering (IoT, Cyber Security & Blockchain Technology).
 - 📚 **Author of [The Indian Stock Market Encyclopedia](https://store.pothi.com/book/mr-munnuru-bhavani-prasad-indian-stock-market-encyclopedia/)**.
 - 💻 Learning programming with C, Python, and HTML.
 - 📈 Interested in the Indian stock market, trading, and investing.
